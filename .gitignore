@@ -1,0 +1,8 @@
+#By default ?
+.idea/vcs.xml
+src/main/resources/
+src/test/resources/
+
+#Ignoring ./idea and ./gradle
+.idea
+.gradle
